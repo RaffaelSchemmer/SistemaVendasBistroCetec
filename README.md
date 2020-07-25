@@ -18,7 +18,7 @@ In this GitHub repository, you will find a <b>complete parametrizable applicatio
 
 ## :rocket: About the Application Architecture and Technologies
 <div align="justify">
-
+  <img alt="GoStack" src="https://s7.gifyu.com/images/1000a47b60e558e60.png" />
 </div>
 
 ## ✅ Requirements to Installing the Application
