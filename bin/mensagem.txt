@@ -1,0 +1,24 @@
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<p><span style="display: none;">&nbsp;</span></p>
+
+<div style="text-align: center;"><img alt="" src="https://www.ucs.br/site/midia/arquivos/CETEC-Logo-Vertical_png.png" style="margin: 2px; float: left; width: 200px; height: 208px; border-width: 1px; border-style: solid;" /></div>
+
+<h1 style="text-align: center;"><span style="font-family:comic sans ms,cursive;"><span style="color:#e98df5;"><span style="font-size: 18pt;">Mostra Gastron&ocirc;mica Tecnol&oacute;gica CETEC - 2019</span></span></span></h1>
+
+<p><span style="font-family:comic sans ms,cursive;"><span style="color:#e98df5;"><span style="font-size: 13.3333px;">Prezado {NOME}</span></span></span><span style="font-family: &quot;comic sans ms&quot;, cursive; color: rgb(233, 141, 245);"><span style="font-size: 10pt;">,</span></span></p>
+
+<p style="text-align: justify;"><span style="font-family:comic sans ms,cursive;"><span style="color:#e98df5;"><span style="font-size: 10pt;">Orgulhosamente, n&oacute;s, como comiss&atilde;o organizadora do bistr&ocirc; tecnol&oacute;gico do CETEC, </span></span><span style="color:#ee0290;"><span style="font-size: 10pt;"><strong>confirmamos</strong>&nbsp;</span></span><span style="color:#e98df5;"><span style="font-size: 10pt;">atrav&eacute;s desta mensagem, o pagamento do ingresso. O ingresso </span></span><span style="color:#ee0290;"><span style="font-size: 10pt;"><strong>digital</strong> </span></span><span style="color:#e98df5;"><span style="font-size: 10pt;">do jantar, se encontra em anexo. Solicitamos que no dia do evento (06/09/2019), o ingresso seja apresentado ao recepcionista da chapelaria, afim de que sua entrada no evento possa acontecer.</span></span></span></p>
+
+<p style="text-align: justify;"><span style="font-family:comic sans ms,cursive;"><span style="color:#e98df5;"><span style="font-size: 10pt;">Preparamos in&uacute;meras inova&ccedil;&otilde;es, tanto no ramo </span></span><strong><span style="color:#ee6002;"><span style="font-size: 10pt;">gastron&ocirc;mico</span></span></strong><span style="color:#e98df5;"><span style="font-size: 10pt;">, como </span></span><strong><span style="color:#ee6002;"><span style="font-size: 10pt;">tecnol&oacute;gico</span></span></strong><span style="color:#e98df5;"><span style="font-size: 10pt;">. Pedimos que voc&ecirc; traga seu celular, pois eles ser&atilde;o os facilitadores do evento. Por interm&eacute;dio do seu celular, ser&aacute; poss&iacute;vel interagir com a gostronomia, com os convidados, e com o ambiente.</span></span></span></p>
+
+<p style="text-align: justify;"><font color="#e98df5" face="comic sans ms, cursive"><span style="font-size: 13.3333px;">No futuro, enviaremos <u>novas mensagens</u>, com informa&ccedil;&otilde;es mais exatas sobre o evento.</span></font></p>
+
+<p><span style="font-family: arial; font-size: 10pt;"><span style="color:#800000;"><span id="cke_bm_521E" style="display: none;">&nbsp;</span></span></span></p>
+
+<p><span style="display: none;">&nbsp;</span></p>
+</body>
+</html>
