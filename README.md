@@ -10,8 +10,8 @@
    
 
 </div>
-<img alt="GoStack" src="https://s7.gifyu.com/images/1000a47b60e558e60.png" />
-<img alt="GoStack" src="https://s7.gifyu.com/images/image545f6619d682325c.png" />
+<img alt="GoStack" src="https://s7.gifyu.com/images/68747470733a2f2f73372e67696679752e636f6d2f696d616765732f31303030613437623630653535386536302e706e67.png" />
+<img alt="GoStack" src="https://s7.gifyu.com/images/Screenshot_20190618-232516.png" />
 
 ## 🧿 About the Application Purpose
 <div align="justify">
