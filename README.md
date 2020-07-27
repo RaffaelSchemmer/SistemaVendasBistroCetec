@@ -45,7 +45,7 @@ Our major dreaming of this project, is that the community uses this magic tool t
 
 ## 📫 Have a question? Want to chat? Ran into a problem?
 <div align="justify">
-We are really open and interest in your opinion about this tool and his ideia. Feel free to contact us with [e-mail](raffael.schemmer@gmail.com).
+We are really open and interest in your opinion about this tool and his ideia. Feel free to contact us with [e-mail!](raffael.schemmer@gmail.com).
 </div>
 
 ## 🤝 Found a bug? Missing a specific feature?
