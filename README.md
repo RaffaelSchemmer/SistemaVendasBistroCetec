@@ -15,7 +15,7 @@
 
 ## 🧿 About the Application Purpose
 <div align="justify">
-In this GitHub repository, you will find a <b>complete parametrizable application</b> (full-stack and multiple technology) that allow managing ticket sales and entrance mananging, using QR Code using a camera of a mobile application. This application was developed :bulb:, to the CETEC 2019 Bistro Event, that happened in august of 2019 📅 in Flores da Cunha, RS in Brazil. 
+In this GitHub repository, you will find a <b>complete parametrizable application</b> (full-stack and multiple technology) that allow managing ticket sales and entrance mananging, using QR Code and a camera of a mobile. This application was developed :bulb:, to the CETEC 2019 Bistro Event, that happened in august of 2019 📅 in Flores da Cunha, RS in Brazil. 
 </div>
 
 ## :rocket: About the Application Architecture and Technologies
