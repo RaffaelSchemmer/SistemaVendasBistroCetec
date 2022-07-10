@@ -1,4 +1,4 @@
-<img alt="GoStack" src="https://s7.gifyu.com/images/Design-sem-nome-1d17c9865e9dcb5cf.gif" />
+<img alt="GoStack" src="https://github.com/RaffaelSchemmer/SistemaVendasBistroCetec/blob/master/ticket.gif" />
 
 <div align="center">
   <h2>
@@ -10,8 +10,6 @@
    
 
 </div>
-<img alt="GoStack" src="https://s7.gifyu.com/images/68747470733a2f2f73372e67696679752e636f6d2f696d616765732f31303030613437623630653535386536302e706e67.png" />
-<img alt="GoStack" src="https://s7.gifyu.com/images/Screenshot_20190618-232516.png" />
 
 ## 🧿 About the Application Purpose
 <div align="justify">
